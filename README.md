@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">☁️Salesforce Development | 🗄️Data Analytics | 🕸️Web Development</h4>
+<h4 align="center">🗄️Data Engineering | 🕸️Web Development | ☁️Salesforce Development</h4>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Amar Kumar from India<br><br>- 🔭 I’m currently working on Data Structures and Algorithms <br>- 📚 I'm currently learning Salesforce<br>- ⚡ In my free time I love Shooting (Air Rifle)<br>- 📝 I regularly write articles on https://medium.com/@amrkchv<br>-  📫 You can reach me through my mail : amar.cd4@gmail.com </p>
+<p align="left">I'm Amar Kumar from India<br><br>- 🔭 I’m currently working on Data Structures and Algorithms <br>- 📚 I'm currently learning Data Engineering<br>- 📝 I regularly write articles on https://medium.com/@amrkchv<br>-  📫 You can reach me through my mail : amar.cd4@gmail.com </p>
 
 
 ###
