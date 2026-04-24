@@ -111,6 +111,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/> 
 
 </div>
+
 ###
 
 <h4 align="left">🔗 Connect me on</h4>
@@ -133,7 +134,7 @@
 </div>
 
 
-<!---### --->
+###
 
 
 <div align="center">
