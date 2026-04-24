@@ -13,7 +13,7 @@
 <h4 align="left">👩‍💻  About Me</h4>
 
 ###
-<img align="right" height="180" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
+<img align="right" height="180" src="animation.gif"  />
 
 ###
 
